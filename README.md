@@ -12,9 +12,12 @@
 <br/>
 
 <div align="center">
-- 🔭 I’m currently working on **a book Store application**
-- 🌱 I’m currently learning **React, Node.js, MongoDB**
-</div>
+ 
+ 🔭 I’m currently working on **a book store application**
+ 
+ 🌱 I’m currently learning **React, Node.js, Mongodb**
+
+ </div>
 
 
 <div align="center">
