@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3 align="center">An aspiring fullstack developer from India
+<h3 align="center">An aspiring software developer from India
 </h3>
 
 <br/>
